@@ -1,5 +1,9 @@
-### Hi there 👋
+# InwooLeeme 🔆
 
+I'm noob student developer.
+I like developing and build many things.
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kinetic27)](https://solved.ac/InwooLeeme)
 <!--
 **InwooLeeme/InwooLeeme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
