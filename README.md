@@ -8,6 +8,8 @@ I like developing and build many things.
 ![InwooLeeme's github stats](https://github-readme-stats.vercel.app/api?username=InwooLeeme&show_icons=true)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=inwooleeme)](https://solved.ac/inwooleeme)
+![inwooleeme's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=inwooleeme)
+
 <!--
 **InwooLeeme/InwooLeeme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
