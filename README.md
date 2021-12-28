@@ -2,9 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=inwoo%20Lee&fontSize=90" />
 
-I'm noob student developer.
-I like developing and build many things.
-
 ## Cards
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=inwooleeme&theme=onedark&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
