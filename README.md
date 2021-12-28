@@ -7,7 +7,7 @@ I like developing and build many things.
 
 ## Cards
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=inwooleeme&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=inwooleeme&theme=onedark&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![InwooLeeme's github stats](https://github-readme-stats.vercel.app/api?username=InwooLeeme&show_icons=true)
 
