@@ -11,6 +11,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=inwooleeme)](https://solved.ac/inwooleeme)
 ![inwooleeme's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=inwooleeme)
 <a href="https://opgc.me/#/users/InwooLeeme" target="_blank"><img src="https://api.opgc.me/githubs/users/InwooLeeme/tag/?theme=basic" /></a>
+[![Leetcode Stats](https://leetcard.jacoblin.cool/InwooLeeme)](https://leetcode.com/InwooLeeme)
 
 <!--
 **InwooLeeme/InwooLeeme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
