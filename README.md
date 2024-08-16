@@ -12,7 +12,7 @@
 ![inwooleeme's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=inwooleeme)
 <a href="https://opgc.me/#/users/InwooLeeme" target="_blank"><img src="https://api.opgc.me/githubs/users/InwooLeeme/tag/?theme=basic" /></a>
 [![Leetcode Stats](https://leetcard.jacoblin.cool/InwooLeeme)](https://leetcode.com/InwooLeeme)
-[![AtCoder_Stats](https://atcoder.junah.dev/v1/generate_badge?name=Space_Penguin)]
+![AtCoder_Stats](https://atcoder.junah.dev/v1/generate_badge?name=Space_Penguin)
 
 <!--
 **InwooLeeme/InwooLeeme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
