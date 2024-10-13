@@ -12,7 +12,7 @@
 ![inwooleeme's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=inwooleeme)
 <a href="https://opgc.me/#/users/InwooLeeme" target="_blank"><img src="https://api.opgc.me/githubs/users/InwooLeeme/tag/?theme=basic" /></a>
 [![Leetcode Stats](https://leetcard.jacoblin.cool/InwooLeeme)](https://leetcode.com/InwooLeeme)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=InWooleeme&theme=dark)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=Inwooleeme&theme=dark)
 ![AtCoder_Stats](https://atcoder.junah.dev/v1/generate_badge?name=Space_Penguin)
 
 수상
