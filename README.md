@@ -12,7 +12,11 @@
 ![inwooleeme's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=inwooleeme)
 <a href="https://opgc.me/#/users/InwooLeeme" target="_blank"><img src="https://api.opgc.me/githubs/users/InwooLeeme/tag/?theme=basic" /></a>
 [![Leetcode Stats](https://leetcard.jacoblin.cool/InwooLeeme)](https://leetcode.com/InwooLeeme)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=InWooleeme&theme=dark)
 ![AtCoder_Stats](https://atcoder.junah.dev/v1/generate_badge?name=Space_Penguin)
+
+수상
+- 2024년 전남대학교 소프트웨어중심대학 제7회 SW프로그래밍 경진대회(호남•제주권) - 장려상
 
 <!--
 **InwooLeeme/InwooLeeme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
