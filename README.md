@@ -18,6 +18,9 @@
 수상
 - 2024년 전남대학교 소프트웨어중심대학 제7회 SW프로그래밍 경진대회(호남•제주권) - 장려상
 
+출제
+- 2024년 전북대학교 알고리즘 경진대회 출제 - (A번, E번 : 문자열을 다루는 문제가 문제다)
+
 <!--
 **InwooLeeme/InwooLeeme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
