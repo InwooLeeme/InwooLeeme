@@ -11,7 +11,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=inwooleeme)](https://solved.ac/inwooleeme)
 ![inwooleeme's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=inwooleeme)
 <a href="https://opgc.me/#/users/InwooLeeme" target="_blank"><img src="https://api.opgc.me/githubs/users/InwooLeeme/tag/?theme=basic" /></a>
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=Inwooleeme&theme=dark)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=inwooleeme&theme=dark)
 ![AtCoder_Stats](https://atcoder.junah.dev/v1/generate_badge?name=Space_Penguin)
 
 수상
