@@ -20,6 +20,7 @@
 
 출제
 - 2024년 전북대학교 알고리즘 경진대회 출제 - (A번 : 강아지 산책, E번 : 문자열을 다루는 문제가 문제다)
+- 2025년 전북대학교 알고리즘 경진대회 출제 - (F번 : 성범이의 검증 시험에 답하라!)
 
 <!--
 **InwooLeeme/InwooLeeme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
