@@ -5,6 +5,14 @@
 <!-- [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=inwooleeme)](https://solved.ac/inwooleeme)  -->
 ![inwooleeme's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=inwooleeme)
 
+👥 알고리즘 대회 참가 이력
+
+2022 UCPC 예선 참가 240th
+
+2024 UCPC 예선 참가 132th
+
+2025 UCPC 예선 참가 135th
+
 🏆️ Awards
 
 2024년 전남대학교 소프트웨어중심대학 제7회 SW프로그래밍 경진대회(호남•제주권) - 장려상
