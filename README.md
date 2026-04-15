@@ -2,8 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=inwooleeme)
 
-<!-- [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=inwooleeme)](https://solved.ac/inwooleeme)  -->
-![inwooleeme's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=inwooleeme)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=inwooleeme)](https://solved.ac/inwooleeme)
 
 👥 알고리즘 대회 참가 이력
 
