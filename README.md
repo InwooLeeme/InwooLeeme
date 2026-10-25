@@ -1,9 +1,6 @@
 <!--
   교체할 부분: REPO_URL_* (프로젝트 저장소 주소), YOUR_BLOG_URL, YOUR_EMAIL
 -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=InwooLeeme&fontSize=64&fontAlignY=36&animation=fadeIn&desc=Backend%20%26%20AI%20Agent%20Developer%20%C2%B7%20Competitive%20Programmer&descSize=18&descAlignY=58" />
-
 <div align="center">
 
 <a href="https://github.com/InwooLeeme">
@@ -16,8 +13,7 @@
 
 <br/><br/>
 
-<a href="YOUR_BLOG_URL"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://inwooleeme.vercel.app/"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /></a>
 <a href="https://solved.ac/inwooleeme"><img src="https://img.shields.io/badge/solved.ac-17CE3A?style=for-the-badge&logoColor=white" /></a>
 
 </div>
@@ -79,7 +75,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 📈 [NASDAQ Pattern Chart](REPO_URL_NASDAQ)
+### 📈 [NASDAQ Pattern Chart](https://github.com/InwooLeeme/database-nasdaq)
 **나스닥 과거 데이터 패턴 분석 차트**
 
 과거 시세 데이터 기반 패턴 탐색 및 시각화
@@ -89,7 +85,7 @@
 </td>
 <td width="50%" valign="top">
 
-### ✍️ [Tech Blog](YOUR_BLOG_URL)
+### ✍️ [Tech Blog](https://inwooleeme.vercel.app/)
 **AtCoder 풀이 & 개발 블로그**
 
 Next.js 기반 개인 블로그, 한글 폰트 서브셋 동적 OG 이미지, 브랜치별 Vercel 배포
@@ -176,5 +172,3 @@ Next.js 기반 개인 블로그, 한글 폰트 서브셋 동적 OG 이미지, �
 <img src="https://streak-stats.demolab.com?user=InwooLeeme&theme=tokyonight&hide_border=true" />
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
