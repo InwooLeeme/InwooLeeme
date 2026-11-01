@@ -1,7 +1,12 @@
-<picture>
-<source media="(max-width: 600px)" srcset="./assets/hero-mobile.svg" />
-<img src="./assets/hero.svg" width="100%" alt="InwooLeeme — AI 에이전트, 알고리즘 출제, 분자 독성 예측" />
-</picture>
+<h1 align="center">InwooLeeme</h1>
+
+<p align="center">
+  <strong>AI Agents · Algorithms</strong>
+</p>
+
+<p align="center">
+  문제를 풀고, 만들고, 기록합니다.
+</p>
 
 <div align="center">
 
@@ -10,6 +15,8 @@
 [Projects](#selected-projects) · [Algorithms](#algorithms--problem-setting) · [Research](#research) · [Activity](#github-activity)
 
 </div>
+
+---
 
 ## Profile
 
@@ -21,8 +28,6 @@
 ## Selected Projects
 
 ### MCP Assistant
-
-<img src="./assets/mcp.svg" width="100%" alt="의도 분석과 실행 계획을 통합해 명령당 LLM 호출 3회에서 1회로 축소, 도구 호출 제외" />
 
 음성 명령으로 음악 재생과 PC 애플리케이션 실행을 수행하는 개인 비서입니다.
 
@@ -38,8 +43,6 @@
 
 ### Molecular Toxicity Prediction
 
-<img src="./assets/toxicity.svg" width="100%" alt="RF·ExtraTrees 앙상블, 과제 제출 평가 F1 0.8483" />
-
 분자 구조와 물성 정보로 독성 여부를 예측한 **6인 팀 프로젝트**입니다.
 
 - **공동 수행:** EDA 및 분석 발표 자료 작성
@@ -50,8 +53,6 @@
 - **성과:** 최종 앙상블 모델로 **F1 0.8483**
 
 ## Algorithms & Problem Setting
-
-<img src="./assets/setting.svg" width="100%" alt="SKOJ 약 350문제 출제, 기획·지문·정답 코드·테스트·검수 담당" />
 
 ### SKOJ / 약 350문제 출제
 
@@ -77,7 +78,7 @@ SKALA 학생을 위한 온라인 알고리즘 문제 채점 사이트에서 **�
 
 <div align="center">
 <a href="https://solved.ac/inwooleeme">
-<img src="https://raw.githubusercontent.com/InwooLeeme/InwooLeeme/main/solvedac-inwooleeme-v1.svg" width="600" alt="inwooleeme의 solved.ac 프로필" />
+  <img src="https://raw.githubusercontent.com/InwooLeeme/InwooLeeme/main/solvedac-inwooleeme-v1.svg" width="600" alt="inwooleeme의 solved.ac 프로필" />
 </a>
 </div>
 
@@ -136,14 +137,10 @@ SKALA 학생을 위한 온라인 알고리즘 문제 채점 사이트에서 **�
 ## GitHub Activity
 
 <div align="center">
-
 <img width="49%" src="https://github-stats-extended.vercel.app/api?username=InwooLeeme&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=80EDB3&amp;icon_color=80EDB3&amp;text_color=C9D1D9" alt="GitHub Stats" />
 <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=InwooLeeme&amp;card_width=467&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=80EDB3&amp;text_color=C9D1D9" alt="Repository Languages" />
-
 <br/><br/>
-
 <img width="72%" src="https://streak-stats.demolab.com/?user=InwooLeeme&amp;theme=dark&amp;hide_border=true&amp;background=0D1117&amp;ring=80EDB3&amp;fire=80EDB3&amp;currStreakLabel=80EDB3" alt="GitHub Contribution Streak" />
-
 </div>
 
 ## Certificates
@@ -153,5 +150,3 @@ SKALA 학생을 위한 온라인 알고리즘 문제 채점 사이트에서 **�
 | 데이터분석 준전문가 ADsP | 한국데이터산업진흥원 | 2026.03 |
 | 정보처리기사 | 한국산업인력공단 | 2025.12 |
 | 한국사능력검정시험 1급 | 국사편찬위원회 | 2025.10 |
-
-<img src="./assets/footer.svg" width="100%" alt="Keep building. Keep solving." />
