@@ -1,174 +1,157 @@
-<!--
-  교체할 부분: REPO_URL_* (프로젝트 저장소 주소), YOUR_BLOG_URL, YOUR_EMAIL
--->
+<picture>
+<source media="(max-width: 600px)" srcset="./assets/hero-mobile.svg" />
+<img src="./assets/hero.svg" width="100%" alt="InwooLeeme — AI 에이전트, 알고리즘 출제, 분자 독성 예측" />
+</picture>
+
 <div align="center">
 
-<a href="https://github.com/InwooLeeme">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=ICPC+Regional+Qualifier+Gold+%C3%97+2;Building+AI+Agents+with+LangGraph+%26+MCP;Algorithm+Contest+Problem+Setter;Backend+with+FastAPI+%26+Spring+Boot" alt="Typing SVG" />
-</a>
+[Blog](https://inwooleeme.vercel.app/) · [GitHub](https://github.com/InwooLeeme) · [solved.ac](https://solved.ac/inwooleeme)
 
-<br/>
-
-<a href="https://solved.ac/inwooleeme"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=inwooleeme" /></a>
-
-<br/><br/>
-
-<a href="https://inwooleeme.vercel.app/"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /></a>
-<a href="https://solved.ac/inwooleeme"><img src="https://img.shields.io/badge/solved.ac-17CE3A?style=for-the-badge&logoColor=white" /></a>
+[Projects](#selected-projects) · [Algorithms](#algorithms--problem-setting) · [Research](#research) · [Activity](#github-activity)
 
 </div>
 
-<br/>
+## Profile
 
-## 👋 About Me
+- **AI Agents:** LangGraph·AutoGen·MCP 기반 AI 에이전트 설계 및 개발
+- **Algorithms:** 알고리즘 문제 해결·출제 및 대회 운영
+- **DevOps:** Docker Compose 및 GitHub Actions 기반 CI/CD 담당
+- **Education:** 전북대학교 소프트웨어공학과 졸업
 
-| | |
+## Selected Projects
+
+### MCP Assistant
+
+<img src="./assets/mcp.svg" width="100%" alt="의도 분석과 실행 계획을 통합해 명령당 LLM 호출 3회에서 1회로 축소, 도구 호출 제외" />
+
+음성 명령으로 음악 재생과 PC 애플리케이션 실행을 수행하는 개인 비서입니다.
+
+- **담당:** MCP 서버·AI 에이전트·프론트엔드 구현 및 논문 작성
+- **개선:** 하나의 LLM이 의도 분석과 실행 계획 수립을 함께 담당하도록 구조 변경
+- **결과:** 도구 호출을 제외한 명령당 LLM 호출 **3회 → 1회**
+- **연구 당시:** AutoGen · MCP · FastAPI · React · Electron
+- **후속 개발:** Electron·React 클라이언트를 Tauri·Next.js로 전환
+
+[Source Code](https://github.com/InwooLeeme/mcp-assistant) · [Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12288718)
+
+---
+
+### Molecular Toxicity Prediction
+
+<img src="./assets/toxicity.svg" width="100%" alt="RF·ExtraTrees 앙상블, 과제 제출 평가 F1 0.8483" />
+
+분자 구조와 물성 정보로 독성 여부를 예측한 **6인 팀 프로젝트**입니다.
+
+- **공동 수행:** EDA 및 분석 발표 자료 작성
+- **개인 담당:** 분자 특성·모델 비교 실험, 최종 학습·예측 노트북 구현
+- **검증:** 동일 모델 입력 중복 점검 및 분자 골격을 고려한 학습·검증 데이터 분리
+- **비교:** Random Forest · ExtraTrees · XGBoost · LightGBM
+- **최종 모델:** Random Forest·ExtraTrees 앙상블
+- **성과:** 최종 앙상블 모델로 **F1 0.8483**
+
+## Algorithms & Problem Setting
+
+<img src="./assets/setting.svg" width="100%" alt="SKOJ 약 350문제 출제, 기획·지문·정답 코드·테스트·검수 담당" />
+
+### SKOJ / 약 350문제 출제
+
+SKALA 학생을 위한 온라인 알고리즘 문제 채점 사이트에서 **문제 기획·지문 작성·정답 코드 구현·테스트 데이터 제작·검수**를 담당했습니다.
+
+[Visit SKOJ](https://skoj.site/)
+
+### Contest Problem Setting
+
+| 연도 | 전북대학교 알고리즘 경진대회 |
 |:---:|:---|
-| 🎓 | 전북대학교 컴퓨터공학 전공 |
-| 🧠 | 알고리즘 문제 해결 — ICPC 예선 2년 연속 금상, 교내 대회 3년간 출제·운영 |
-| 🤖 | LangGraph · MCP 기반 AI 에이전트 설계 / FastAPI 백엔드 개발 |
-| 🐳 | 팀 프로젝트 DevOps 담당 — Docker Compose, GitHub Actions CI/CD |
-| 📝 | MCP 기반 음성 비서 연구로 학술대회 논문 수상 |
+| 2026 | 출제 및 운영 |
+| 2025 | F. 성범이의 검증 시험에 답하라! 출제 |
+| 2024 | A. 강아지 산책 / E. 문자열을 다루는 문제가 문제다 출제 |
 
-<br/>
+### Awards
 
-## 🛠 Tech Stack
+| 연도 | 대회 | 결과 | 구분 |
+|:---:|:---|:---|:---:|
+| 2025 | ICPC 전북대학교 예선 경시대회 | **금상** | 3인 팀 |
+| 2024 | ICPC 전북대학교 예선 경시대회 | **금상** | 3인 팀 |
+| 2024 | 전남대학교 SW중심대학 제7회 SW프로그래밍 경진대회 | **장려상** | 개인 |
+
+<div align="center">
+<a href="https://solved.ac/inwooleeme">
+<img src="https://raw.githubusercontent.com/InwooLeeme/InwooLeeme/main/solvedac-inwooleeme-v1.svg" width="600" alt="inwooleeme의 solved.ac 프로필" />
+</a>
+</div>
+
+<details>
+<summary>UCPC 예선 기록</summary>
+
+| 연도 | 순위 |
+|:---:|:---:|
+| 2025 | 135위 |
+| 2024 | 132위 |
+| 2022 | 240위 |
+
+</details>
+
+## Research
+
+**MCP 기반 PC용 개인 음성 비서 시스템 구축 방안**
+
+- 한국정보기술학회 2025년도 하계종합학술대회 및 대학생논문경진대회 · 2025.06
+- **한국정보기술학회 대학생 논문경진대회 우수논문상**
+- MCP 서버·AI 에이전트·프론트엔드 구현 및 논문 작성
+
+[Read Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12288718)
+
+## Tech Stack
 
 <div align="center">
 
 | 분야 | 기술 |
 |:---:|:---|
-| **Languages** | <img src="https://skillicons.dev/icons?i=cpp,py,ts,js,java" height="40"/> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=fastapi,spring" height="40"/> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=nextjs,react,vue,electron" height="40"/> |
-| **Database** | <img src="https://skillicons.dev/icons?i=postgres,sqlite" height="40"/> |
-| **DevOps · Tools** | <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,git,vercel" height="40"/> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=cpp,py,ts,js,java" height="40" alt="C++, Python, TypeScript, JavaScript, Java" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=fastapi,spring" height="40" alt="FastAPI, Spring" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=nextjs,react,vue,electron" height="40" alt="Next.js, React, Vue, Electron" /> |
+| **Database** | <img src="https://skillicons.dev/icons?i=postgres,sqlite" height="40" alt="PostgreSQL, SQLite" /> |
+| **DevOps · Tools** | <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,git,vercel" height="40" alt="Docker, GitHub Actions, Linux, Git, Vercel" /> |
 | **AI · Agent** | ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-191919?style=for-the-badge) ![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white) |
 
 </div>
 
-<br/>
+## More Projects
 
-## 🚀 Projects
+### NASDAQ Pattern Chart
 
-<table>
-<tr>
-<td width="50%" valign="top">
+나스닥 주식 데이터를 차트로 시각화하는 프로젝트입니다.
 
-### ⚖️ [SKOJ](REPO_URL_SKOJ)
-**교육생 전용 온라인 저지** · 공동 개발
+- **담당:** React 기반 프론트엔드 개발, 차트 시각화 및 UI 디자인
 
-코딩테스트 빈출 알고리즘 위주 문제 구성, 순위 추적·승급전 시스템, 기초 알고리즘 가이드 제공
+[Source Code](https://github.com/InwooLeeme/database-nasdaq)
 
-</td>
-<td width="50%" valign="top">
+### InwooLeeme.dev
 
-### 🎙️ [1분 자기소개 음성 분석](REPO_URL_VOICE)
-**말하기 습관 분석 서비스** · 개발 중
+알고리즘 풀이와 개발 경험을 기록하는 Next.js 기반 개인 기술 블로그입니다.
 
-발화 시간·침묵·추임새·반복 표현 분석, 비동기 분석 파이프라인, Free/PRO 플랜
+[Visit Blog](https://inwooleeme.vercel.app/)
 
-`Vue` `PostgreSQL` `Whisper`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📈 [NASDAQ Pattern Chart](https://github.com/InwooLeeme/database-nasdaq)
-**나스닥 과거 데이터 패턴 분석 차트**
-
-과거 시세 데이터 기반 패턴 탐색 및 시각화
-
-`React` `FastAPI` `SQLite`
-
-</td>
-<td width="50%" valign="top">
-
-### ✍️ [Tech Blog](https://inwooleeme.vercel.app/)
-**AtCoder 풀이 & 개발 블로그**
-
-Next.js 기반 개인 블로그, 한글 폰트 서브셋 동적 OG 이미지, 브랜치별 Vercel 배포
-
-`Next.js` `Vercel`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 📄 Research
-
-| 일자 | 논문 | 학회 |
-|:---:|:---|:---|
-| 2025.06 | **MCP 기반 PC용 개인 음성 비서 시스템 구축 방안** | 한국정보기술학회 하계종합학술대회 · 🏅 우수논문상 |
-
-<br/>
-
-## 🏆 Awards
-
-| 일자 | 대회 | 결과 |
-|:---:|:---|:---:|
-| 2025.10 | ICPC 전북대학교 예선 경시대회 | 🥇 **금상** |
-| 2025.06 | 한국정보기술학회 대학생 논문경진대회 | 🏅 **우수논문상** |
-| 2024.11 | ICPC 전북대학교 예선 경시대회 | 🥇 **금상** |
-| 2024.10 | 전남대학교 SW중심대학 제7회 SW프로그래밍 경진대회 (호남·제주권) | 🎖️ **장려상** |
-
-<br/>
-
-## 🧩 Competitive Programming
+## GitHub Activity
 
 <div align="center">
-  <img src="./solvedac-inwooleeme-v1.svg"/>
+
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=InwooLeeme&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=80EDB3&amp;icon_color=80EDB3&amp;text_color=C9D1D9" alt="GitHub Stats" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=InwooLeeme&amp;card_width=467&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=80EDB3&amp;text_color=C9D1D9" alt="Repository Languages" />
+
+<br/><br/>
+
+<img width="72%" src="https://streak-stats.demolab.com/?user=InwooLeeme&amp;theme=dark&amp;hide_border=true&amp;background=0D1117&amp;ring=80EDB3&amp;fire=80EDB3&amp;currStreakLabel=80EDB3" alt="GitHub Contribution Streak" />
+
 </div>
 
-<br/>
+## Certificates
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 📝 Problem Setting
-| 연도 | 전북대학교 알고리즘 경진대회 |
-|:---:|:---|
-| 2026 | 출제 및 운영 |
-| 2025 | F. 성범이의 검증 시험에 답하라! |
-| 2024 | A. 강아지 산책<br/>E. 문자열을 다루는 문제가 문제다 |
-
-</td>
-<td width="50%" valign="top">
-
-#### 👥 UCPC 예선
-| 연도 | 순위 |
-|:---:|:---:|
-| 2025 | **135th** |
-| 2024 | **132nd** |
-| 2022 | **240th** |
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🎓 Certificates
-
-| 자격증 | 발급 기관 | 취득일 |
+| 자격증 | 발급 기관 | 취득 |
 |:---|:---|:---:|
-| 데이터분석 준전문가 (ADsP) | 한국데이터산업진흥원 | 2026.03 |
+| 데이터분석 준전문가 ADsP | 한국데이터산업진흥원 | 2026.03 |
 | 정보처리기사 | 한국산업인력공단 | 2025.12 |
 | 한국사능력검정시험 1급 | 국사편찬위원회 | 2025.10 |
 
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=InwooLeeme&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InwooLeeme&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com?user=InwooLeeme&theme=tokyonight&hide_border=true" />
-
-</div>
+<img src="./assets/footer.svg" width="100%" alt="Keep building. Keep solving." />
